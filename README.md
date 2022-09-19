@@ -2,8 +2,7 @@
 
 A crowdsourced graphic novel &amp; story.
 
-Discord: \
-https://discord.gg/SgcmsQPfUC
+[![Discord](https://img.shields.io/badge/chat-on%20discord-green.svg?logo=discord&logoColor=fff&labelColor=1e1c24&color=8d5b3f)](https://discord.gg/SgcmsQPfUC)
 
 Onepager: \
 https://docs.google.com/document/d/1hvBBE4qPQ81mqY_hiUOaNYZGEMOGx4ttP6D-9cx3Q3Y/edit
