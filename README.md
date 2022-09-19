@@ -21,3 +21,6 @@ https://docs.google.com/document/d/1Fz6Va5EKk3iL-no79Hy6CI7ZjwchDWL9usi14vXAPuk/
 
 Legacy screenplay .fountain file: \
 https://drive.google.com/file/d/0B0W_d-7p3G5jbEd0R1NYT0Q5dkk/view?usp=sharing&resourcekey=0-dwfM_xVo0Tx0jcH4mpI61w 
+
+Legacy gdd: \
+https://docs.google.com/document/d/1h0uYkpj_bwUcUSoBseiv1kYn_x5J2uXrcUz1sM_R82M/edit#heading=h.7ro1ir72652z
